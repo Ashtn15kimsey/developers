@@ -1,0 +1,11 @@
+table
+{border: 1px solid silver;}
+
+td:hover{background-color: yellow;
+color: green;}
+tr, th{background-color: purple;
+color: blue;}
+ 
+tr, td{ background-color:black
+color:white;}
+<link re="Stylesheet" type="text/css" href="HTML_Table.html>

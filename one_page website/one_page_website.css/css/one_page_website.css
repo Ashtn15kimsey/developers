@@ -1,0 +1,10 @@
+html {
+    font-family:Georgia(sans-serif);
+    font-size:large;
+}
+input{
+    width:100%;
+    margin:100px;
+    border:4px solid green;
+    border-radius:7px;
+}

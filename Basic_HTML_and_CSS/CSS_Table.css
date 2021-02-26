@@ -1,0 +1,17 @@
+table
+     {border:1px solid silver;}
+
+td
+   :hover{background-color:purple;
+   color: Black;}
+
+tr,th {background-color:black;
+color:light blue;}
+
+tr,td   {background-color:darkgreen;
+color:yellow;}
+
+
+		 
+		 
+  
